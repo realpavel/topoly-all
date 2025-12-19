@@ -74,6 +74,11 @@ WayProperties / PointProperties — значения свойств для пу�
 * WayProperties — свойства путей (EAV)
 * PointProperties — свойства точек (EAV)
 
+<img width="1550" height="823" alt="Screenshot 2025-12-19 at 16 07 51" src="https://github.com/user-attachments/assets/6b9a5f9f-530b-4592-b811-a1bb7d3c806d" />
+<img width="1550" height="426" alt="Screenshot 2025-12-19 at 16 08 04" src="https://github.com/user-attachments/assets/73dab131-f05e-46cf-80d9-49f81901c0ed" />
+
+
+
 ### Cities — города
 | Название поля | Тип | Ограничения |
 |---------------|-----|-------------|
